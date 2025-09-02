@@ -13,3 +13,4 @@
 - [2025-09-02 09:10] docs: update README with gameplay controls and architecture diagram
 - [2025-09-02 09:30] fix: prevent double-jump glitch when spamming spacebar
 - [2025-09-02 11:11] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-09-02 15:20] feat: dynamic obstacle spawning with progressive speed scaling
