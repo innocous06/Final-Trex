@@ -9,3 +9,4 @@
 - [2025-08-29 20:55] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-09-01 14:29] feat: implement gravity and jump velocity physics engine
 - [2025-09-01 20:16] docs: update README with gameplay controls and architecture diagram
+- [2025-09-02 09:03] style: add retro pixel art day/night cycle background transitions
