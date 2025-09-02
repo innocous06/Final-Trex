@@ -16,3 +16,4 @@
 - [2025-09-02 15:20] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-09-02 15:22] fix: correct ground parallax scrolling alignment offset
 - [2025-09-02 15:43] docs: update README with gameplay controls and architecture diagram
+- [2025-09-02 18:14] fix: resolve sprite tearing on high-DPI retina screens
