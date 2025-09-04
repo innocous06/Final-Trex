@@ -26,3 +26,4 @@
 - [2025-09-04 11:24] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-09-04 12:51] feat: add high score persistence using localStorage API
 - [2025-09-04 13:38] feat: add pause/resume game state handler on tab blur/focus
+- [2025-09-04 15:40] test: add unit tests for collision bounding box calculations
