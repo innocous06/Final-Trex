@@ -29,3 +29,4 @@
 - [2025-09-04 15:40] test: add unit tests for collision bounding box calculations
 - [2025-09-04 16:04] feat: implement gravity and jump velocity physics engine
 - [2025-09-04 16:58] fix: prevent double-jump glitch when spamming spacebar
+- [2025-09-04 17:35] feat: add high score persistence using localStorage API
