@@ -30,3 +30,4 @@
 - [2025-09-04 16:04] feat: implement gravity and jump velocity physics engine
 - [2025-09-04 16:58] fix: prevent double-jump glitch when spamming spacebar
 - [2025-09-04 17:35] feat: add high score persistence using localStorage API
+- [2025-09-04 20:51] refactor: extract physics constants into separate config module
