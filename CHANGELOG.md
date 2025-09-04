@@ -27,3 +27,4 @@
 - [2025-09-04 12:51] feat: add high score persistence using localStorage API
 - [2025-09-04 13:38] feat: add pause/resume game state handler on tab blur/focus
 - [2025-09-04 15:40] test: add unit tests for collision bounding box calculations
+- [2025-09-04 16:04] feat: implement gravity and jump velocity physics engine
