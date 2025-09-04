@@ -20,3 +20,4 @@
 - [2025-09-02 21:16] docs: update README with gameplay controls and architecture diagram
 - [2025-09-04 09:16] feat: add high score persistence using localStorage API
 - [2025-09-04 09:20] feat: add AABB collision detection between Dino and obstacles
+- [2025-09-04 09:21] docs: update README with gameplay controls and architecture diagram
