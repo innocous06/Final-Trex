@@ -23,3 +23,4 @@
 - [2025-09-04 09:21] docs: update README with gameplay controls and architecture diagram
 - [2025-09-04 10:12] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-04 10:19] feat: add pause/resume game state handler on tab blur/focus
+- [2025-09-04 11:24] feat: dynamic obstacle spawning with progressive speed scaling
