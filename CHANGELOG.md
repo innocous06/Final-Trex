@@ -35,3 +35,4 @@
 - [2025-09-04 21:22] feat: add high score persistence using localStorage API
 - [2025-09-05 10:01] feat: add AABB collision detection between Dino and obstacles
 - [2025-09-05 10:34] feat: implement gravity and jump velocity physics engine
+- [2025-09-05 20:28] feat: add mobile touch controls and responsive viewport scaling
