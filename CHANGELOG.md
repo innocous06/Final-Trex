@@ -33,3 +33,4 @@
 - [2025-09-04 20:51] refactor: extract physics constants into separate config module
 - [2025-09-04 21:03] feat: add pause/resume game state handler on tab blur/focus
 - [2025-09-04 21:22] feat: add high score persistence using localStorage API
+- [2025-09-05 10:01] feat: add AABB collision detection between Dino and obstacles
