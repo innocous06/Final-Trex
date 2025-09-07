@@ -42,3 +42,4 @@
 - [2025-09-07 17:57] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-09-07 20:06] fix: correct ground parallax scrolling alignment offset
 - [2025-09-07 21:03] docs: update README with gameplay controls and architecture diagram
+- [2025-09-07 22:56] fix: prevent double-jump glitch when spamming spacebar
