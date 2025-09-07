@@ -38,3 +38,4 @@
 - [2025-09-05 20:28] feat: add mobile touch controls and responsive viewport scaling
 - [2025-09-07 13:52] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-09-07 14:29] fix: prevent double-jump glitch when spamming spacebar
+- [2025-09-07 17:18] feat: add Web Audio API sound synthesizers for jump and game-over
