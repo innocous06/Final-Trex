@@ -36,3 +36,4 @@
 - [2025-09-05 10:01] feat: add AABB collision detection between Dino and obstacles
 - [2025-09-05 10:34] feat: implement gravity and jump velocity physics engine
 - [2025-09-05 20:28] feat: add mobile touch controls and responsive viewport scaling
+- [2025-09-07 13:52] feat: dynamic obstacle spawning with progressive speed scaling
