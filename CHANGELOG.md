@@ -49,3 +49,4 @@
 - [2025-09-10 10:52] feat: add AABB collision detection between Dino and obstacles
 - [2025-09-10 11:45] docs: update README with gameplay controls and architecture diagram
 - [2025-09-10 11:52] fix: resolve sprite tearing on high-DPI retina screens
+- [2025-09-10 12:25] test: add unit tests for collision bounding box calculations
