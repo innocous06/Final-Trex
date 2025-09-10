@@ -52,3 +52,4 @@
 - [2025-09-10 12:25] test: add unit tests for collision bounding box calculations
 - [2025-09-10 13:38] fix: correct ground parallax scrolling alignment offset
 - [2025-09-10 14:07] feat: implement gravity and jump velocity physics engine
+- [2025-09-10 15:14] fix: correct ground parallax scrolling alignment offset
