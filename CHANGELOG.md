@@ -51,3 +51,4 @@
 - [2025-09-10 11:52] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-10 12:25] test: add unit tests for collision bounding box calculations
 - [2025-09-10 13:38] fix: correct ground parallax scrolling alignment offset
+- [2025-09-10 14:07] feat: implement gravity and jump velocity physics engine
