@@ -60,3 +60,4 @@
 - [2025-09-10 20:14] feat: implement gravity and jump velocity physics engine
 - [2025-09-10 20:20] feat: add mobile touch controls and responsive viewport scaling
 - [2025-09-10 20:31] feat: add high score persistence using localStorage API
+- [2025-09-10 20:47] feat: implement gravity and jump velocity physics engine
