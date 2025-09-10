@@ -44,3 +44,4 @@
 - [2025-09-07 21:03] docs: update README with gameplay controls and architecture diagram
 - [2025-09-07 22:56] fix: prevent double-jump glitch when spamming spacebar
 - [2025-09-08 14:45] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-09-10 08:08] fix: resolve sprite tearing on high-DPI retina screens
