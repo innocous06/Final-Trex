@@ -57,3 +57,4 @@
 - [2025-09-10 17:53] fix: prevent double-jump glitch when spamming spacebar
 - [2025-09-10 18:58] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-09-10 19:55] fix: prevent double-jump glitch when spamming spacebar
+- [2025-09-10 20:14] feat: implement gravity and jump velocity physics engine
