@@ -64,3 +64,4 @@
 - [2025-09-10 21:18] fix: correct ground parallax scrolling alignment offset
 - [2025-09-11 12:54] fix: prevent double-jump glitch when spamming spacebar
 - [2025-09-11 13:40] feat: add pause/resume game state handler on tab blur/focus
+- [2025-09-11 13:42] fix: prevent double-jump glitch when spamming spacebar
