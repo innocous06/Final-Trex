@@ -62,3 +62,4 @@
 - [2025-09-10 20:31] feat: add high score persistence using localStorage API
 - [2025-09-10 20:47] feat: implement gravity and jump velocity physics engine
 - [2025-09-10 21:18] fix: correct ground parallax scrolling alignment offset
+- [2025-09-11 12:54] fix: prevent double-jump glitch when spamming spacebar
