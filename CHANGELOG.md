@@ -67,3 +67,4 @@
 - [2025-09-11 13:42] fix: prevent double-jump glitch when spamming spacebar
 - [2025-09-11 14:36] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-11 14:45] style: add retro pixel art day/night cycle background transitions
+- [2025-09-11 16:24] feat: add high score persistence using localStorage API
