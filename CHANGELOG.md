@@ -68,3 +68,4 @@
 - [2025-09-11 14:36] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-11 14:45] style: add retro pixel art day/night cycle background transitions
 - [2025-09-11 16:24] feat: add high score persistence using localStorage API
+- [2025-09-11 16:30] perf: reduce garbage collection pauses by reusing obstacle objects
