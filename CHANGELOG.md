@@ -70,3 +70,4 @@
 - [2025-09-11 16:24] feat: add high score persistence using localStorage API
 - [2025-09-11 16:30] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-09-11 17:08] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-09-11 20:20] fix: resolve sprite tearing on high-DPI retina screens
