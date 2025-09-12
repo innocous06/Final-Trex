@@ -72,3 +72,4 @@
 - [2025-09-11 17:08] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-09-11 20:20] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-12 21:05] feat: implement gravity and jump velocity physics engine
+- [2025-09-12 21:08] feat: add high score persistence using localStorage API
