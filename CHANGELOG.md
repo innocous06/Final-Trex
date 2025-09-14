@@ -75,3 +75,4 @@
 - [2025-09-12 21:08] feat: add high score persistence using localStorage API
 - [2025-09-14 10:28] style: add retro pixel art day/night cycle background transitions
 - [2025-09-14 10:53] feat: add AABB collision detection between Dino and obstacles
+- [2025-09-14 13:04] test: add unit tests for collision bounding box calculations
