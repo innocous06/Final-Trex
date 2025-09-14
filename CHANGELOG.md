@@ -73,3 +73,4 @@
 - [2025-09-11 20:20] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-12 21:05] feat: implement gravity and jump velocity physics engine
 - [2025-09-12 21:08] feat: add high score persistence using localStorage API
+- [2025-09-14 10:28] style: add retro pixel art day/night cycle background transitions
