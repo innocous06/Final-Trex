@@ -77,3 +77,4 @@
 - [2025-09-14 10:53] feat: add AABB collision detection between Dino and obstacles
 - [2025-09-14 13:04] test: add unit tests for collision bounding box calculations
 - [2025-09-14 13:47] fix: correct ground parallax scrolling alignment offset
+- [2025-09-14 16:16] fix: resolve sprite tearing on high-DPI retina screens
