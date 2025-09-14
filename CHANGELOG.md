@@ -79,3 +79,4 @@
 - [2025-09-14 13:47] fix: correct ground parallax scrolling alignment offset
 - [2025-09-14 16:16] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-14 18:33] docs: update README with gameplay controls and architecture diagram
+- [2025-09-14 20:29] feat: add high score persistence using localStorage API
