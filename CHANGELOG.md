@@ -81,3 +81,4 @@
 - [2025-09-14 18:33] docs: update README with gameplay controls and architecture diagram
 - [2025-09-14 20:29] feat: add high score persistence using localStorage API
 - [2025-09-15 11:08] feat: add pause/resume game state handler on tab blur/focus
+- [2025-09-15 17:27] perf: reduce garbage collection pauses by reusing obstacle objects
