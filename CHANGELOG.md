@@ -88,3 +88,4 @@
 - [2025-09-16 15:42] fix: correct ground parallax scrolling alignment offset
 - [2025-09-16 16:03] style: add retro pixel art day/night cycle background transitions
 - [2025-09-16 17:35] feat: add high score persistence using localStorage API
+- [2025-09-16 17:47] feat: add mobile touch controls and responsive viewport scaling
