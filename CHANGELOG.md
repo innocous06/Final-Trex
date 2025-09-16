@@ -85,3 +85,4 @@
 - [2025-09-16 07:20] test: add unit tests for collision bounding box calculations
 - [2025-09-16 09:08] feat: add AABB collision detection between Dino and obstacles
 - [2025-09-16 15:20] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-09-16 15:42] fix: correct ground parallax scrolling alignment offset
