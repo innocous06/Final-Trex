@@ -82,3 +82,4 @@
 - [2025-09-14 20:29] feat: add high score persistence using localStorage API
 - [2025-09-15 11:08] feat: add pause/resume game state handler on tab blur/focus
 - [2025-09-15 17:27] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-09-16 07:20] test: add unit tests for collision bounding box calculations
