@@ -86,3 +86,4 @@
 - [2025-09-16 09:08] feat: add AABB collision detection between Dino and obstacles
 - [2025-09-16 15:20] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-09-16 15:42] fix: correct ground parallax scrolling alignment offset
+- [2025-09-16 16:03] style: add retro pixel art day/night cycle background transitions
