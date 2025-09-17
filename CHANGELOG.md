@@ -91,3 +91,4 @@
 - [2025-09-16 17:47] feat: add mobile touch controls and responsive viewport scaling
 - [2025-09-16 23:04] feat: add mobile touch controls and responsive viewport scaling
 - [2025-09-17 11:14] feat: dynamic obstacle spawning with progressive speed scaling
+- [2025-09-17 11:44] refactor: extract physics constants into separate config module
