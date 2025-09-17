@@ -94,3 +94,4 @@
 - [2025-09-17 11:44] refactor: extract physics constants into separate config module
 - [2025-09-17 15:51] docs: update README with gameplay controls and architecture diagram
 - [2025-09-17 16:21] style: add retro pixel art day/night cycle background transitions
+- [2025-09-17 17:44] feat: add mobile touch controls and responsive viewport scaling
