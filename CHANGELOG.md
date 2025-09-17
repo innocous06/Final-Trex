@@ -95,3 +95,4 @@
 - [2025-09-17 15:51] docs: update README with gameplay controls and architecture diagram
 - [2025-09-17 16:21] style: add retro pixel art day/night cycle background transitions
 - [2025-09-17 17:44] feat: add mobile touch controls and responsive viewport scaling
+- [2025-09-17 22:18] feat: implement gravity and jump velocity physics engine
