@@ -96,3 +96,4 @@
 - [2025-09-17 16:21] style: add retro pixel art day/night cycle background transitions
 - [2025-09-17 17:44] feat: add mobile touch controls and responsive viewport scaling
 - [2025-09-17 22:18] feat: implement gravity and jump velocity physics engine
+- [2025-09-19 10:53] feat: dynamic obstacle spawning with progressive speed scaling
