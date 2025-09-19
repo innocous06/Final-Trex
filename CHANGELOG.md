@@ -101,3 +101,4 @@
 - [2025-09-19 16:33] fix: correct ground parallax scrolling alignment offset
 - [2025-09-19 16:54] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-09-19 16:58] feat: dynamic obstacle spawning with progressive speed scaling
+- [2025-09-19 18:08] refactor: extract physics constants into separate config module
