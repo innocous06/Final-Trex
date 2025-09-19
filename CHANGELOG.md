@@ -98,3 +98,4 @@
 - [2025-09-17 22:18] feat: implement gravity and jump velocity physics engine
 - [2025-09-19 10:53] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-09-19 11:47] docs: update README with gameplay controls and architecture diagram
+- [2025-09-19 16:33] fix: correct ground parallax scrolling alignment offset
