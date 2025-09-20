@@ -106,3 +106,4 @@
 - [2025-09-19 21:17] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-20 10:40] refactor: extract physics constants into separate config module
 - [2025-09-20 16:24] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-09-20 16:41] feat: add pause/resume game state handler on tab blur/focus
