@@ -116,3 +116,4 @@
 - [2025-09-21 15:13] fix: prevent double-jump glitch when spamming spacebar
 - [2025-09-21 15:33] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-09-21 17:22] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-09-21 20:12] test: add unit tests for collision bounding box calculations
