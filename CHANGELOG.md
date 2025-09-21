@@ -113,3 +113,4 @@
 - [2025-09-21 13:12] feat: add high score persistence using localStorage API
 - [2025-09-21 14:03] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-09-21 14:57] docs: update README with gameplay controls and architecture diagram
+- [2025-09-21 15:13] fix: prevent double-jump glitch when spamming spacebar
