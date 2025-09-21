@@ -110,3 +110,4 @@
 - [2025-09-21 09:34] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-09-21 09:53] feat: add pause/resume game state handler on tab blur/focus
 - [2025-09-21 10:03] feat: implement gravity and jump velocity physics engine
+- [2025-09-21 13:12] feat: add high score persistence using localStorage API
