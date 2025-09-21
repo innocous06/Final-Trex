@@ -107,3 +107,4 @@
 - [2025-09-20 10:40] refactor: extract physics constants into separate config module
 - [2025-09-20 16:24] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-09-20 16:41] feat: add pause/resume game state handler on tab blur/focus
+- [2025-09-21 09:34] feat: add Web Audio API sound synthesizers for jump and game-over
