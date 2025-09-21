@@ -119,3 +119,4 @@
 - [2025-09-21 20:12] test: add unit tests for collision bounding box calculations
 - [2025-09-21 20:27] feat: implement gravity and jump velocity physics engine
 - [2025-09-21 21:09] refactor: extract physics constants into separate config module
+- [2025-09-21 22:13] perf: reduce garbage collection pauses by reusing obstacle objects
