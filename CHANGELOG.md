@@ -126,3 +126,4 @@
 - [2025-09-22 11:59] fix: prevent double-jump glitch when spamming spacebar
 - [2025-09-22 13:07] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-09-22 13:21] style: add retro pixel art day/night cycle background transitions
+- [2025-09-22 16:12] refactor: extract physics constants into separate config module
