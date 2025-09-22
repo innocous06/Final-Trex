@@ -123,3 +123,4 @@
 - [2025-09-21 22:50] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-22 09:46] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-09-22 11:54] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-09-22 11:59] fix: prevent double-jump glitch when spamming spacebar
