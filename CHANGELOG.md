@@ -128,3 +128,4 @@
 - [2025-09-22 13:21] style: add retro pixel art day/night cycle background transitions
 - [2025-09-22 16:12] refactor: extract physics constants into separate config module
 - [2025-09-22 18:37] feat: add AABB collision detection between Dino and obstacles
+- [2025-09-22 19:40] feat: add AABB collision detection between Dino and obstacles
