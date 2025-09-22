@@ -121,3 +121,4 @@
 - [2025-09-21 21:09] refactor: extract physics constants into separate config module
 - [2025-09-21 22:13] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-09-21 22:50] fix: resolve sprite tearing on high-DPI retina screens
+- [2025-09-22 09:46] refactor: optimize HTML5 canvas double-buffering render loop
