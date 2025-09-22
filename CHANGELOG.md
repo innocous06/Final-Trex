@@ -127,3 +127,4 @@
 - [2025-09-22 13:07] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-09-22 13:21] style: add retro pixel art day/night cycle background transitions
 - [2025-09-22 16:12] refactor: extract physics constants into separate config module
+- [2025-09-22 18:37] feat: add AABB collision detection between Dino and obstacles
