@@ -138,3 +138,4 @@
 - [2025-09-26 14:31] docs: update README with gameplay controls and architecture diagram
 - [2025-09-26 14:38] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-09-26 16:48] feat: implement gravity and jump velocity physics engine
+- [2025-09-26 17:38] style: add retro pixel art day/night cycle background transitions
