@@ -140,3 +140,4 @@
 - [2025-09-26 16:48] feat: implement gravity and jump velocity physics engine
 - [2025-09-26 17:38] style: add retro pixel art day/night cycle background transitions
 - [2025-09-26 18:39] refactor: extract physics constants into separate config module
+- [2025-09-26 20:16] feat: add pause/resume game state handler on tab blur/focus
