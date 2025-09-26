@@ -142,3 +142,4 @@
 - [2025-09-26 18:39] refactor: extract physics constants into separate config module
 - [2025-09-26 20:16] feat: add pause/resume game state handler on tab blur/focus
 - [2025-09-26 21:25] docs: update README with gameplay controls and architecture diagram
+- [2025-09-26 21:48] style: add retro pixel art day/night cycle background transitions
