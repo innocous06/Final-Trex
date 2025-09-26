@@ -134,3 +134,4 @@
 - [2025-09-26 10:22] feat: add pause/resume game state handler on tab blur/focus
 - [2025-09-26 11:13] feat: add AABB collision detection between Dino and obstacles
 - [2025-09-26 12:22] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-09-26 12:46] feat: add Web Audio API sound synthesizers for jump and game-over
