@@ -131,3 +131,4 @@
 - [2025-09-22 19:40] feat: add AABB collision detection between Dino and obstacles
 - [2025-09-22 22:17] feat: add high score persistence using localStorage API
 - [2025-09-25 12:30] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-09-26 10:22] feat: add pause/resume game state handler on tab blur/focus
