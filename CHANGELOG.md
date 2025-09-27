@@ -7,3 +7,4 @@
 - [2025-09-22 16:04] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-09-23 16:54] docs: update README with gameplay controls and architecture diagram
 - [2025-09-23 18:47] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-09-27 15:20] docs: update README with gameplay controls and architecture diagram
