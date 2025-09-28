@@ -145,3 +145,4 @@
 - [2025-09-26 21:48] style: add retro pixel art day/night cycle background transitions
 - [2025-09-28 08:42] test: add unit tests for collision bounding box calculations
 - [2025-09-28 09:38] feat: add mobile touch controls and responsive viewport scaling
+- [2025-09-28 11:40] feat: add mobile touch controls and responsive viewport scaling
