@@ -148,3 +148,4 @@
 - [2025-09-28 11:40] feat: add mobile touch controls and responsive viewport scaling
 - [2025-09-28 12:17] feat: add pause/resume game state handler on tab blur/focus
 - [2025-09-28 16:14] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-09-28 18:23] refactor: extract physics constants into separate config module
