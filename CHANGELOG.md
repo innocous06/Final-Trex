@@ -150,3 +150,4 @@
 - [2025-09-28 16:14] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-09-28 18:23] refactor: extract physics constants into separate config module
 - [2025-09-29 19:57] feat: implement gravity and jump velocity physics engine
+- [2025-09-29 20:20] feat: add pause/resume game state handler on tab blur/focus
