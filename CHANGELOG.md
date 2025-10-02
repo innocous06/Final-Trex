@@ -156,3 +156,4 @@
 - [2025-10-02 10:09] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-10-02 10:28] feat: add mobile touch controls and responsive viewport scaling
 - [2025-10-02 13:29] fix: correct ground parallax scrolling alignment offset
+- [2025-10-02 13:35] perf: reduce garbage collection pauses by reusing obstacle objects
