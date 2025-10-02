@@ -158,3 +158,4 @@
 - [2025-10-02 13:29] fix: correct ground parallax scrolling alignment offset
 - [2025-10-02 13:35] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-10-02 14:22] feat: add mobile touch controls and responsive viewport scaling
+- [2025-10-02 18:27] docs: update README with gameplay controls and architecture diagram
