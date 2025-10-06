@@ -10,3 +10,4 @@
 - [2025-09-27 15:20] docs: update README with gameplay controls and architecture diagram
 - [2025-10-05 19:47] test: add unit tests for collision bounding box calculations
 - [2025-10-06 11:37] feat: dynamic obstacle spawning with progressive speed scaling
+- [2025-10-06 12:30] style: add retro pixel art day/night cycle background transitions
