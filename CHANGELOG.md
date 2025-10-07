@@ -166,3 +166,4 @@
 - [2025-10-07 11:20] feat: add AABB collision detection between Dino and obstacles
 - [2025-10-07 11:45] feat: add mobile touch controls and responsive viewport scaling
 - [2025-10-07 12:24] fix: prevent double-jump glitch when spamming spacebar
+- [2025-10-07 14:27] fix: resolve sprite tearing on high-DPI retina screens
