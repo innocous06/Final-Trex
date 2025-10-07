@@ -163,3 +163,4 @@
 - [2025-10-02 20:49] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-05 10:12] feat: add mobile touch controls and responsive viewport scaling
 - [2025-10-05 14:00] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-10-07 11:20] feat: add AABB collision detection between Dino and obstacles
