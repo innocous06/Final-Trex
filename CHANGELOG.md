@@ -170,3 +170,4 @@
 - [2025-10-07 15:01] fix: prevent double-jump glitch when spamming spacebar
 - [2025-10-07 19:36] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-10-07 19:53] feat: dynamic obstacle spawning with progressive speed scaling
+- [2025-10-07 19:54] refactor: optimize HTML5 canvas double-buffering render loop
