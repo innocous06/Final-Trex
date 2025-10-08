@@ -173,3 +173,4 @@
 - [2025-10-07 19:54] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-10-07 21:49] feat: add high score persistence using localStorage API
 - [2025-10-08 07:44] refactor: extract physics constants into separate config module
+- [2025-10-08 13:29] feat: add Web Audio API sound synthesizers for jump and game-over
