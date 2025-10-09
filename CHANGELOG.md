@@ -180,3 +180,4 @@
 - [2025-10-08 23:31] feat: implement gravity and jump velocity physics engine
 - [2025-10-09 09:58] docs: update README with gameplay controls and architecture diagram
 - [2025-10-09 10:33] feat: add AABB collision detection between Dino and obstacles
+- [2025-10-09 10:58] feat: add pause/resume game state handler on tab blur/focus
