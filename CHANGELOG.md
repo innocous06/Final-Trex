@@ -182,3 +182,4 @@
 - [2025-10-09 10:33] feat: add AABB collision detection between Dino and obstacles
 - [2025-10-09 10:58] feat: add pause/resume game state handler on tab blur/focus
 - [2025-10-09 13:42] feat: add AABB collision detection between Dino and obstacles
+- [2025-10-09 14:15] feat: add high score persistence using localStorage API
