@@ -178,3 +178,4 @@
 - [2025-10-08 17:00] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-10-08 21:35] feat: add high score persistence using localStorage API
 - [2025-10-08 23:31] feat: implement gravity and jump velocity physics engine
+- [2025-10-09 09:58] docs: update README with gameplay controls and architecture diagram
