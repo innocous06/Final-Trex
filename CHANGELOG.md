@@ -184,3 +184,4 @@
 - [2025-10-09 13:42] feat: add AABB collision detection between Dino and obstacles
 - [2025-10-09 14:15] feat: add high score persistence using localStorage API
 - [2025-10-09 15:23] style: add retro pixel art day/night cycle background transitions
+- [2025-10-09 16:05] fix: resolve sprite tearing on high-DPI retina screens
