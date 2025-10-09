@@ -185,3 +185,4 @@
 - [2025-10-09 14:15] feat: add high score persistence using localStorage API
 - [2025-10-09 15:23] style: add retro pixel art day/night cycle background transitions
 - [2025-10-09 16:05] fix: resolve sprite tearing on high-DPI retina screens
+- [2025-10-09 20:44] refactor: extract physics constants into separate config module
