@@ -187,3 +187,4 @@
 - [2025-10-09 16:05] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-09 20:44] refactor: extract physics constants into separate config module
 - [2025-10-09 21:41] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-10-10 12:43] docs: update README with gameplay controls and architecture diagram
