@@ -195,3 +195,4 @@
 - [2025-10-11 14:47] refactor: extract physics constants into separate config module
 - [2025-10-11 15:14] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-10-11 15:42] feat: add high score persistence using localStorage API
+- [2025-10-11 15:46] fix: correct ground parallax scrolling alignment offset
