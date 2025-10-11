@@ -190,3 +190,4 @@
 - [2025-10-10 12:43] docs: update README with gameplay controls and architecture diagram
 - [2025-10-10 19:23] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-10-10 22:17] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-10-11 09:16] feat: add AABB collision detection between Dino and obstacles
