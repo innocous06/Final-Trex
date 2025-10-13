@@ -199,3 +199,4 @@
 - [2025-10-11 18:59] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-10-11 19:47] style: add retro pixel art day/night cycle background transitions
 - [2025-10-11 22:52] feat: implement gravity and jump velocity physics engine
+- [2025-10-13 13:31] refactor: optimize HTML5 canvas double-buffering render loop
