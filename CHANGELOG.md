@@ -201,3 +201,4 @@
 - [2025-10-11 22:52] feat: implement gravity and jump velocity physics engine
 - [2025-10-13 13:31] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-10-13 14:19] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-10-13 14:23] feat: add high score persistence using localStorage API
