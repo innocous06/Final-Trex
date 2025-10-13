@@ -204,3 +204,4 @@
 - [2025-10-13 14:23] feat: add high score persistence using localStorage API
 - [2025-10-13 18:14] feat: add AABB collision detection between Dino and obstacles
 - [2025-10-13 18:16] feat: add mobile touch controls and responsive viewport scaling
+- [2025-10-13 19:02] fix: correct ground parallax scrolling alignment offset
