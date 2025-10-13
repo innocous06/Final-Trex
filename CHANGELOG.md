@@ -202,3 +202,4 @@
 - [2025-10-13 13:31] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-10-13 14:19] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-10-13 14:23] feat: add high score persistence using localStorage API
+- [2025-10-13 18:14] feat: add AABB collision detection between Dino and obstacles
