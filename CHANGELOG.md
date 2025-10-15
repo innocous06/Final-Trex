@@ -210,3 +210,4 @@
 - [2025-10-15 09:03] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-10-15 11:59] refactor: extract physics constants into separate config module
 - [2025-10-15 15:58] style: add retro pixel art day/night cycle background transitions
+- [2025-10-15 18:06] fix: correct ground parallax scrolling alignment offset
