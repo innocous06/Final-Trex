@@ -207,3 +207,4 @@
 - [2025-10-13 19:02] fix: correct ground parallax scrolling alignment offset
 - [2025-10-13 19:43] fix: correct ground parallax scrolling alignment offset
 - [2025-10-13 20:30] style: add retro pixel art day/night cycle background transitions
+- [2025-10-15 09:03] perf: reduce garbage collection pauses by reusing obstacle objects
