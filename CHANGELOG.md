@@ -14,3 +14,4 @@
 - [2025-10-08 11:27] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-10-10 16:03] style: add retro pixel art day/night cycle background transitions
 - [2025-10-16 13:14] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-10-16 14:29] feat: add AABB collision detection between Dino and obstacles
