@@ -213,3 +213,4 @@
 - [2025-10-15 18:06] fix: correct ground parallax scrolling alignment offset
 - [2025-10-15 20:09] style: add retro pixel art day/night cycle background transitions
 - [2025-10-19 18:49] feat: implement gravity and jump velocity physics engine
+- [2025-10-19 19:43] fix: prevent double-jump glitch when spamming spacebar
