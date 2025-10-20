@@ -220,3 +220,4 @@
 - [2025-10-20 11:42] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-10-20 13:38] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-10-20 14:57] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-10-20 15:10] fix: resolve sprite tearing on high-DPI retina screens
