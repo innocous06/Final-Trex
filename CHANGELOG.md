@@ -226,3 +226,4 @@
 - [2025-10-20 15:26] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-20 17:40] docs: update README with gameplay controls and architecture diagram
 - [2025-10-20 18:05] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-10-20 18:10] feat: add mobile touch controls and responsive viewport scaling
