@@ -222,3 +222,4 @@
 - [2025-10-20 14:57] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-10-20 15:10] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-20 15:18] style: add retro pixel art day/night cycle background transitions
+- [2025-10-20 15:23] feat: add high score persistence using localStorage API
