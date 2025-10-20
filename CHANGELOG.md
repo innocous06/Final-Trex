@@ -217,3 +217,4 @@
 - [2025-10-20 08:56] feat: add mobile touch controls and responsive viewport scaling
 - [2025-10-20 10:33] docs: update README with gameplay controls and architecture diagram
 - [2025-10-20 11:15] test: add unit tests for collision bounding box calculations
+- [2025-10-20 11:42] feat: dynamic obstacle spawning with progressive speed scaling
