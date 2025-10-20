@@ -230,3 +230,4 @@
 - [2025-10-20 19:45] style: add retro pixel art day/night cycle background transitions
 - [2025-10-20 19:54] feat: add high score persistence using localStorage API
 - [2025-10-20 20:50] fix: prevent double-jump glitch when spamming spacebar
+- [2025-10-20 21:02] perf: reduce garbage collection pauses by reusing obstacle objects
