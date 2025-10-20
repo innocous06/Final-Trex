@@ -228,3 +228,4 @@
 - [2025-10-20 18:05] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-10-20 18:10] feat: add mobile touch controls and responsive viewport scaling
 - [2025-10-20 19:45] style: add retro pixel art day/night cycle background transitions
+- [2025-10-20 19:54] feat: add high score persistence using localStorage API
