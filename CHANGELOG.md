@@ -224,3 +224,4 @@
 - [2025-10-20 15:18] style: add retro pixel art day/night cycle background transitions
 - [2025-10-20 15:23] feat: add high score persistence using localStorage API
 - [2025-10-20 15:26] fix: resolve sprite tearing on high-DPI retina screens
+- [2025-10-20 17:40] docs: update README with gameplay controls and architecture diagram
