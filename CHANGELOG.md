@@ -16,3 +16,4 @@
 - [2025-10-16 13:14] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-10-16 14:29] feat: add AABB collision detection between Dino and obstacles
 - [2025-10-19 14:01] feat: implement gravity and jump velocity physics engine
+- [2025-10-21 14:37] test: add unit tests for collision bounding box calculations
