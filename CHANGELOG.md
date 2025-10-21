@@ -232,3 +232,4 @@
 - [2025-10-20 20:50] fix: prevent double-jump glitch when spamming spacebar
 - [2025-10-20 21:02] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-10-20 21:36] fix: resolve sprite tearing on high-DPI retina screens
+- [2025-10-21 15:27] test: add unit tests for collision bounding box calculations
