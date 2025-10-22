@@ -17,3 +17,4 @@
 - [2025-10-16 14:29] feat: add AABB collision detection between Dino and obstacles
 - [2025-10-19 14:01] feat: implement gravity and jump velocity physics engine
 - [2025-10-21 14:37] test: add unit tests for collision bounding box calculations
+- [2025-10-22 19:46] fix: resolve sprite tearing on high-DPI retina screens
