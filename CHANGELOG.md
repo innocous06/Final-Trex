@@ -236,3 +236,4 @@
 - [2025-10-21 20:00] fix: correct ground parallax scrolling alignment offset
 - [2025-10-21 20:51] style: add retro pixel art day/night cycle background transitions
 - [2025-10-22 11:21] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-10-22 14:13] feat: add AABB collision detection between Dino and obstacles
