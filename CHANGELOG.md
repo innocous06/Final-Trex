@@ -235,3 +235,4 @@
 - [2025-10-21 15:27] test: add unit tests for collision bounding box calculations
 - [2025-10-21 20:00] fix: correct ground parallax scrolling alignment offset
 - [2025-10-21 20:51] style: add retro pixel art day/night cycle background transitions
+- [2025-10-22 11:21] refactor: optimize HTML5 canvas double-buffering render loop
