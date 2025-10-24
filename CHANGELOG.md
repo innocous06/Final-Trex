@@ -240,3 +240,4 @@
 - [2025-10-22 15:16] feat: add high score persistence using localStorage API
 - [2025-10-24 09:07] fix: prevent double-jump glitch when spamming spacebar
 - [2025-10-24 12:36] feat: add pause/resume game state handler on tab blur/focus
+- [2025-10-24 15:13] fix: resolve sprite tearing on high-DPI retina screens
