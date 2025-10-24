@@ -238,3 +238,4 @@
 - [2025-10-22 11:21] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-10-22 14:13] feat: add AABB collision detection between Dino and obstacles
 - [2025-10-22 15:16] feat: add high score persistence using localStorage API
+- [2025-10-24 09:07] fix: prevent double-jump glitch when spamming spacebar
