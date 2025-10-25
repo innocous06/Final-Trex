@@ -243,3 +243,4 @@
 - [2025-10-24 15:13] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-25 07:17] feat: add high score persistence using localStorage API
 - [2025-10-25 09:38] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-10-25 11:03] feat: add mobile touch controls and responsive viewport scaling
