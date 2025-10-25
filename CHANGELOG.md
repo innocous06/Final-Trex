@@ -250,3 +250,4 @@
 - [2025-10-25 13:58] feat: add mobile touch controls and responsive viewport scaling
 - [2025-10-25 14:59] fix: correct ground parallax scrolling alignment offset
 - [2025-10-25 17:20] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-10-25 21:04] refactor: extract physics constants into separate config module
