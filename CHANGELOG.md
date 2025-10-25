@@ -245,3 +245,4 @@
 - [2025-10-25 09:38] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-10-25 11:03] feat: add mobile touch controls and responsive viewport scaling
 - [2025-10-25 11:47] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-10-25 11:49] fix: prevent double-jump glitch when spamming spacebar
