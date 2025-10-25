@@ -249,3 +249,4 @@
 - [2025-10-25 13:54] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-25 13:58] feat: add mobile touch controls and responsive viewport scaling
 - [2025-10-25 14:59] fix: correct ground parallax scrolling alignment offset
+- [2025-10-25 17:20] feat: add Web Audio API sound synthesizers for jump and game-over
