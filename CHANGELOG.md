@@ -254,3 +254,4 @@
 - [2025-10-25 23:40] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-26 13:10] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-10-26 17:25] fix: prevent double-jump glitch when spamming spacebar
+- [2025-10-26 18:14] fix: resolve sprite tearing on high-DPI retina screens
