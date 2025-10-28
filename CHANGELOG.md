@@ -257,3 +257,4 @@
 - [2025-10-26 18:14] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-28 08:15] feat: add mobile touch controls and responsive viewport scaling
 - [2025-10-28 11:16] fix: correct ground parallax scrolling alignment offset
+- [2025-10-28 11:34] feat: dynamic obstacle spawning with progressive speed scaling
