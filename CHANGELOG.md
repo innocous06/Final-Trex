@@ -259,3 +259,4 @@
 - [2025-10-28 11:16] fix: correct ground parallax scrolling alignment offset
 - [2025-10-28 11:34] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-10-28 15:33] feat: add mobile touch controls and responsive viewport scaling
+- [2025-10-28 17:26] feat: dynamic obstacle spawning with progressive speed scaling
