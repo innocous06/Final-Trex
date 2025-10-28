@@ -256,3 +256,4 @@
 - [2025-10-26 17:25] fix: prevent double-jump glitch when spamming spacebar
 - [2025-10-26 18:14] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-28 08:15] feat: add mobile touch controls and responsive viewport scaling
+- [2025-10-28 11:16] fix: correct ground parallax scrolling alignment offset
