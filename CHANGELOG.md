@@ -263,3 +263,4 @@
 - [2025-10-28 20:20] fix: correct ground parallax scrolling alignment offset
 - [2025-10-28 21:24] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-10-29 09:22] feat: implement gravity and jump velocity physics engine
+- [2025-10-29 13:55] style: add retro pixel art day/night cycle background transitions
