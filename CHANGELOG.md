@@ -262,3 +262,4 @@
 - [2025-10-28 17:26] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-10-28 20:20] fix: correct ground parallax scrolling alignment offset
 - [2025-10-28 21:24] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-10-29 09:22] feat: implement gravity and jump velocity physics engine
