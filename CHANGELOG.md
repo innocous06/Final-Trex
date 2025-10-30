@@ -268,3 +268,4 @@
 - [2025-10-29 18:19] feat: implement gravity and jump velocity physics engine
 - [2025-10-30 10:14] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-30 14:12] feat: add AABB collision detection between Dino and obstacles
+- [2025-10-30 15:02] refactor: extract physics constants into separate config module
