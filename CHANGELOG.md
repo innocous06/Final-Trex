@@ -271,3 +271,4 @@
 - [2025-10-30 15:02] refactor: extract physics constants into separate config module
 - [2025-10-30 18:56] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-30 19:16] test: add unit tests for collision bounding box calculations
+- [2025-10-30 19:19] feat: implement gravity and jump velocity physics engine
