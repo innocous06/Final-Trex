@@ -275,3 +275,4 @@
 - [2025-10-30 20:20] fix: correct ground parallax scrolling alignment offset
 - [2025-10-30 22:21] docs: update README with gameplay controls and architecture diagram
 - [2025-10-31 10:12] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-10-31 11:20] refactor: optimize HTML5 canvas double-buffering render loop
