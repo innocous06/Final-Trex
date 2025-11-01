@@ -277,3 +277,4 @@
 - [2025-10-31 10:12] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-10-31 11:20] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-10-31 13:01] feat: add mobile touch controls and responsive viewport scaling
+- [2025-11-01 17:52] feat: add high score persistence using localStorage API
