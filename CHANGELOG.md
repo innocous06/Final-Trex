@@ -280,3 +280,4 @@
 - [2025-11-01 17:52] feat: add high score persistence using localStorage API
 - [2025-11-01 20:38] test: add unit tests for collision bounding box calculations
 - [2025-11-02 11:04] feat: add mobile touch controls and responsive viewport scaling
+- [2025-11-02 12:55] docs: update README with gameplay controls and architecture diagram
