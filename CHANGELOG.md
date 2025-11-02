@@ -283,3 +283,4 @@
 - [2025-11-02 12:55] docs: update README with gameplay controls and architecture diagram
 - [2025-11-02 13:30] style: add retro pixel art day/night cycle background transitions
 - [2025-11-02 15:18] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-11-02 15:29] fix: prevent double-jump glitch when spamming spacebar
