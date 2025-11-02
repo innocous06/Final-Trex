@@ -285,3 +285,4 @@
 - [2025-11-02 15:18] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-11-02 15:29] fix: prevent double-jump glitch when spamming spacebar
 - [2025-11-02 15:34] refactor: extract physics constants into separate config module
+- [2025-11-02 16:24] feat: add AABB collision detection between Dino and obstacles
