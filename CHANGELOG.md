@@ -289,3 +289,4 @@
 - [2025-11-02 17:17] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-11-02 21:50] docs: update README with gameplay controls and architecture diagram
 - [2025-11-04 13:55] feat: add high score persistence using localStorage API
+- [2025-11-04 14:18] refactor: extract physics constants into separate config module
