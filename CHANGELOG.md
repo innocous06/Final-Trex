@@ -292,3 +292,4 @@
 - [2025-11-04 14:18] refactor: extract physics constants into separate config module
 - [2025-11-04 17:37] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-11-04 17:48] refactor: extract physics constants into separate config module
+- [2025-11-04 18:22] test: add unit tests for collision bounding box calculations
