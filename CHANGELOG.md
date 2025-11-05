@@ -301,3 +301,4 @@
 - [2025-11-05 13:10] fix: prevent double-jump glitch when spamming spacebar
 - [2025-11-05 13:42] feat: implement gravity and jump velocity physics engine
 - [2025-11-05 13:55] style: add retro pixel art day/night cycle background transitions
+- [2025-11-05 15:13] feat: add Web Audio API sound synthesizers for jump and game-over
