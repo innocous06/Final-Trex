@@ -307,3 +307,4 @@
 - [2025-11-05 16:42] refactor: extract physics constants into separate config module
 - [2025-11-05 18:24] feat: implement gravity and jump velocity physics engine
 - [2025-11-05 18:42] feat: add mobile touch controls and responsive viewport scaling
+- [2025-11-05 19:59] docs: update README with gameplay controls and architecture diagram
