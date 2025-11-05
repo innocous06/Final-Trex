@@ -304,3 +304,4 @@
 - [2025-11-05 15:13] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-11-05 15:27] feat: add AABB collision detection between Dino and obstacles
 - [2025-11-05 16:09] fix: resolve sprite tearing on high-DPI retina screens
+- [2025-11-05 16:42] refactor: extract physics constants into separate config module
