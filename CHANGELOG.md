@@ -295,3 +295,4 @@
 - [2025-11-04 18:22] test: add unit tests for collision bounding box calculations
 - [2025-11-04 19:20] feat: add pause/resume game state handler on tab blur/focus
 - [2025-11-05 10:02] feat: add mobile touch controls and responsive viewport scaling
+- [2025-11-05 12:04] fix: prevent double-jump glitch when spamming spacebar
