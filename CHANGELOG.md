@@ -308,3 +308,4 @@
 - [2025-11-05 18:24] feat: implement gravity and jump velocity physics engine
 - [2025-11-05 18:42] feat: add mobile touch controls and responsive viewport scaling
 - [2025-11-05 19:59] docs: update README with gameplay controls and architecture diagram
+- [2025-11-05 21:52] feat: add pause/resume game state handler on tab blur/focus
