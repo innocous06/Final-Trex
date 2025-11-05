@@ -297,3 +297,4 @@
 - [2025-11-05 10:02] feat: add mobile touch controls and responsive viewport scaling
 - [2025-11-05 12:04] fix: prevent double-jump glitch when spamming spacebar
 - [2025-11-05 12:29] fix: correct ground parallax scrolling alignment offset
+- [2025-11-05 12:52] fix: prevent double-jump glitch when spamming spacebar
