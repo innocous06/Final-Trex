@@ -303,3 +303,4 @@
 - [2025-11-05 13:55] style: add retro pixel art day/night cycle background transitions
 - [2025-11-05 15:13] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-11-05 15:27] feat: add AABB collision detection between Dino and obstacles
+- [2025-11-05 16:09] fix: resolve sprite tearing on high-DPI retina screens
