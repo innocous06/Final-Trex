@@ -315,3 +315,4 @@
 - [2025-11-06 12:04] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-11-06 15:30] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-11-06 18:56] feat: dynamic obstacle spawning with progressive speed scaling
+- [2025-11-06 20:16] refactor: extract physics constants into separate config module
