@@ -313,3 +313,4 @@
 - [2025-11-06 10:42] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-11-06 11:14] fix: correct ground parallax scrolling alignment offset
 - [2025-11-06 12:04] feat: dynamic obstacle spawning with progressive speed scaling
+- [2025-11-06 15:30] fix: resolve sprite tearing on high-DPI retina screens
