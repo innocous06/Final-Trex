@@ -310,3 +310,4 @@
 - [2025-11-05 19:59] docs: update README with gameplay controls and architecture diagram
 - [2025-11-05 21:52] feat: add pause/resume game state handler on tab blur/focus
 - [2025-11-05 21:54] docs: update README with gameplay controls and architecture diagram
+- [2025-11-06 10:42] perf: reduce garbage collection pauses by reusing obstacle objects
