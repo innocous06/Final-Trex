@@ -312,3 +312,4 @@
 - [2025-11-05 21:54] docs: update README with gameplay controls and architecture diagram
 - [2025-11-06 10:42] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-11-06 11:14] fix: correct ground parallax scrolling alignment offset
+- [2025-11-06 12:04] feat: dynamic obstacle spawning with progressive speed scaling
