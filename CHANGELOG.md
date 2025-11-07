@@ -19,3 +19,4 @@
 - [2025-10-21 14:37] test: add unit tests for collision bounding box calculations
 - [2025-10-22 19:46] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-10-25 16:21] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-11-07 14:33] feat: add AABB collision detection between Dino and obstacles
