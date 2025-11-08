@@ -21,3 +21,4 @@
 - [2025-10-25 16:21] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-11-07 14:33] feat: add AABB collision detection between Dino and obstacles
 - [2025-11-07 15:19] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-11-08 19:15] refactor: optimize HTML5 canvas double-buffering render loop
