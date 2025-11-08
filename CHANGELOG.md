@@ -318,3 +318,4 @@
 - [2025-11-06 20:16] refactor: extract physics constants into separate config module
 - [2025-11-06 20:37] feat: implement gravity and jump velocity physics engine
 - [2025-11-08 09:11] feat: implement gravity and jump velocity physics engine
+- [2025-11-08 09:24] feat: add pause/resume game state handler on tab blur/focus
