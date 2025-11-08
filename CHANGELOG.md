@@ -319,3 +319,4 @@
 - [2025-11-06 20:37] feat: implement gravity and jump velocity physics engine
 - [2025-11-08 09:11] feat: implement gravity and jump velocity physics engine
 - [2025-11-08 09:24] feat: add pause/resume game state handler on tab blur/focus
+- [2025-11-08 10:48] docs: update README with gameplay controls and architecture diagram
