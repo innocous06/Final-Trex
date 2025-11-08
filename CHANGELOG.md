@@ -324,3 +324,4 @@
 - [2025-11-08 12:53] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-11-08 16:07] docs: update README with gameplay controls and architecture diagram
 - [2025-11-08 16:16] fix: resolve sprite tearing on high-DPI retina screens
+- [2025-11-08 16:31] fix: correct ground parallax scrolling alignment offset
