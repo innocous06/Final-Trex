@@ -321,3 +321,4 @@
 - [2025-11-08 09:24] feat: add pause/resume game state handler on tab blur/focus
 - [2025-11-08 10:48] docs: update README with gameplay controls and architecture diagram
 - [2025-11-08 11:18] fix: prevent double-jump glitch when spamming spacebar
+- [2025-11-08 12:53] refactor: optimize HTML5 canvas double-buffering render loop
