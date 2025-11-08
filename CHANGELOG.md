@@ -322,3 +322,4 @@
 - [2025-11-08 10:48] docs: update README with gameplay controls and architecture diagram
 - [2025-11-08 11:18] fix: prevent double-jump glitch when spamming spacebar
 - [2025-11-08 12:53] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-11-08 16:07] docs: update README with gameplay controls and architecture diagram
