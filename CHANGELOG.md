@@ -317,3 +317,4 @@
 - [2025-11-06 18:56] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-11-06 20:16] refactor: extract physics constants into separate config module
 - [2025-11-06 20:37] feat: implement gravity and jump velocity physics engine
+- [2025-11-08 09:11] feat: implement gravity and jump velocity physics engine
