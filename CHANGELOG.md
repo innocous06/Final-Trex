@@ -327,3 +327,4 @@
 - [2025-11-08 16:31] fix: correct ground parallax scrolling alignment offset
 - [2025-11-08 18:06] feat: add pause/resume game state handler on tab blur/focus
 - [2025-11-09 12:53] style: add retro pixel art day/night cycle background transitions
+- [2025-11-09 16:14] perf: reduce garbage collection pauses by reusing obstacle objects
