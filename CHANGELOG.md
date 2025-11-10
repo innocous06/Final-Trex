@@ -329,3 +329,4 @@
 - [2025-11-09 12:53] style: add retro pixel art day/night cycle background transitions
 - [2025-11-09 16:14] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-11-09 16:37] feat: add Web Audio API sound synthesizers for jump and game-over
+- [2025-11-10 08:16] docs: update README with gameplay controls and architecture diagram
