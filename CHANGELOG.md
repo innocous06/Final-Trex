@@ -333,3 +333,4 @@
 - [2025-11-10 21:37] feat: add AABB collision detection between Dino and obstacles
 - [2025-11-11 11:16] docs: update README with gameplay controls and architecture diagram
 - [2025-11-11 16:00] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-11-11 20:51] perf: reduce garbage collection pauses by reusing obstacle objects
