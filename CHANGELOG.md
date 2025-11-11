@@ -331,3 +331,4 @@
 - [2025-11-09 16:37] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-11-10 08:16] docs: update README with gameplay controls and architecture diagram
 - [2025-11-10 21:37] feat: add AABB collision detection between Dino and obstacles
+- [2025-11-11 11:16] docs: update README with gameplay controls and architecture diagram
