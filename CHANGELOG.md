@@ -334,3 +334,4 @@
 - [2025-11-11 11:16] docs: update README with gameplay controls and architecture diagram
 - [2025-11-11 16:00] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-11-11 20:51] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-11-12 09:51] test: add unit tests for collision bounding box calculations
