@@ -350,3 +350,4 @@
 - [2025-11-13 17:18] refactor: extract physics constants into separate config module
 - [2025-11-13 18:17] perf: reduce garbage collection pauses by reusing obstacle objects
 - [2025-11-13 18:45] test: add unit tests for collision bounding box calculations
+- [2025-11-13 19:29] feat: add pause/resume game state handler on tab blur/focus
