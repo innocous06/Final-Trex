@@ -342,3 +342,4 @@
 - [2025-11-13 11:39] style: add retro pixel art day/night cycle background transitions
 - [2025-11-13 11:40] test: add unit tests for collision bounding box calculations
 - [2025-11-13 12:40] docs: update README with gameplay controls and architecture diagram
+- [2025-11-13 12:59] feat: add high score persistence using localStorage API
