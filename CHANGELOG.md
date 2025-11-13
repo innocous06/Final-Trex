@@ -341,3 +341,4 @@
 - [2025-11-13 11:20] feat: implement gravity and jump velocity physics engine
 - [2025-11-13 11:39] style: add retro pixel art day/night cycle background transitions
 - [2025-11-13 11:40] test: add unit tests for collision bounding box calculations
+- [2025-11-13 12:40] docs: update README with gameplay controls and architecture diagram
