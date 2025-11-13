@@ -337,3 +337,4 @@
 - [2025-11-12 09:51] test: add unit tests for collision bounding box calculations
 - [2025-11-12 19:32] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-11-13 07:21] feat: dynamic obstacle spawning with progressive speed scaling
+- [2025-11-13 10:25] feat: implement gravity and jump velocity physics engine
