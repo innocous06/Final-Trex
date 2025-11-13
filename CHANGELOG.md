@@ -343,3 +343,4 @@
 - [2025-11-13 11:40] test: add unit tests for collision bounding box calculations
 - [2025-11-13 12:40] docs: update README with gameplay controls and architecture diagram
 - [2025-11-13 12:59] feat: add high score persistence using localStorage API
+- [2025-11-13 13:39] refactor: optimize HTML5 canvas double-buffering render loop
