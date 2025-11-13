@@ -349,3 +349,4 @@
 - [2025-11-13 16:29] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-11-13 17:18] refactor: extract physics constants into separate config module
 - [2025-11-13 18:17] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-11-13 18:45] test: add unit tests for collision bounding box calculations
