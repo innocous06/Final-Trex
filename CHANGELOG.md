@@ -344,3 +344,4 @@
 - [2025-11-13 12:40] docs: update README with gameplay controls and architecture diagram
 - [2025-11-13 12:59] feat: add high score persistence using localStorage API
 - [2025-11-13 13:39] refactor: optimize HTML5 canvas double-buffering render loop
+- [2025-11-13 14:42] feat: add Web Audio API sound synthesizers for jump and game-over
