@@ -354,3 +354,4 @@
 - [2025-11-13 19:38] test: add unit tests for collision bounding box calculations
 - [2025-11-13 21:33] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-11-16 09:08] feat: implement gravity and jump velocity physics engine
+- [2025-11-16 14:10] feat: add pause/resume game state handler on tab blur/focus
