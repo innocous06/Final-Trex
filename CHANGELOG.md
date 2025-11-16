@@ -357,3 +357,4 @@
 - [2025-11-16 14:10] feat: add pause/resume game state handler on tab blur/focus
 - [2025-11-16 15:23] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-11-16 17:37] test: add unit tests for collision bounding box calculations
+- [2025-11-16 19:17] feat: dynamic obstacle spawning with progressive speed scaling
