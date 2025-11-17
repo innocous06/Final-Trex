@@ -23,3 +23,4 @@
 - [2025-11-07 15:19] feat: add Web Audio API sound synthesizers for jump and game-over
 - [2025-11-08 19:15] refactor: optimize HTML5 canvas double-buffering render loop
 - [2025-11-13 18:16] test: add unit tests for collision bounding box calculations
+- [2025-11-17 13:06] feat: add mobile touch controls and responsive viewport scaling
