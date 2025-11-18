@@ -365,3 +365,4 @@
 - [2025-11-18 12:48] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-11-18 13:03] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-11-18 14:47] feat: add high score persistence using localStorage API
+- [2025-11-18 18:16] feat: implement gravity and jump velocity physics engine
