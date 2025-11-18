@@ -361,3 +361,4 @@
 - [2025-11-16 19:36] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-11-16 21:43] fix: resolve sprite tearing on high-DPI retina screens
 - [2025-11-18 09:28] perf: reduce garbage collection pauses by reusing obstacle objects
+- [2025-11-18 10:15] perf: reduce garbage collection pauses by reusing obstacle objects
