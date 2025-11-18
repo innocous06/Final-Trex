@@ -25,3 +25,4 @@
 - [2025-11-13 18:16] test: add unit tests for collision bounding box calculations
 - [2025-11-17 13:06] feat: add mobile touch controls and responsive viewport scaling
 - [2025-11-17 13:34] feat: add AABB collision detection between Dino and obstacles
+- [2025-11-18 16:39] feat: dynamic obstacle spawning with progressive speed scaling
