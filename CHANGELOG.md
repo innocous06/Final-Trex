@@ -367,3 +367,4 @@
 - [2025-11-18 14:47] feat: add high score persistence using localStorage API
 - [2025-11-18 18:16] feat: implement gravity and jump velocity physics engine
 - [2025-12-10 11:55] test: add unit tests for collision bounding box calculations
+- [2025-12-27 12:08] refactor: optimize HTML5 canvas double-buffering render loop
