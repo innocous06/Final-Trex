@@ -27,3 +27,4 @@
 - [2025-11-17 13:34] feat: add AABB collision detection between Dino and obstacles
 - [2025-11-18 16:39] feat: dynamic obstacle spawning with progressive speed scaling
 - [2025-11-22 11:48] feat: add high score persistence using localStorage API
+- [2026-01-04 17:53] refactor: optimize HTML5 canvas double-buffering render loop
