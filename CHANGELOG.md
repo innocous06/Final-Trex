@@ -369,3 +369,4 @@
 - [2025-12-10 11:55] test: add unit tests for collision bounding box calculations
 - [2025-12-27 12:08] refactor: optimize HTML5 canvas double-buffering render loop
 - [2026-01-14 18:10] feat: add high score persistence using localStorage API
+- [2026-02-03 17:41] fix: prevent double-jump glitch when spamming spacebar
