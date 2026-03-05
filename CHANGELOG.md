@@ -372,3 +372,4 @@
 - [2026-02-03 17:41] fix: prevent double-jump glitch when spamming spacebar
 - [2026-02-18 12:28] feat: add pause/resume game state handler on tab blur/focus
 - [2026-03-05 12:21] docs: update README with gameplay controls and architecture diagram
+- [2026-03-05 15:00] test: add unit tests for collision bounding box calculations
