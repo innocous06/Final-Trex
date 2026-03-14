@@ -29,3 +29,4 @@
 - [2025-11-22 11:48] feat: add high score persistence using localStorage API
 - [2026-01-04 17:53] refactor: optimize HTML5 canvas double-buffering render loop
 - [2026-02-02 14:12] style: add retro pixel art day/night cycle background transitions
+- [2026-03-14 15:57] refactor: extract physics constants into separate config module
