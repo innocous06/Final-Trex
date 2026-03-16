@@ -373,3 +373,4 @@
 - [2026-02-18 12:28] feat: add pause/resume game state handler on tab blur/focus
 - [2026-03-05 12:21] docs: update README with gameplay controls and architecture diagram
 - [2026-03-05 15:00] test: add unit tests for collision bounding box calculations
+- [2026-03-16 16:17] fix: resolve sprite tearing on high-DPI retina screens
