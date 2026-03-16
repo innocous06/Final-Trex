@@ -375,3 +375,4 @@
 - [2026-03-05 15:00] test: add unit tests for collision bounding box calculations
 - [2026-03-16 16:17] fix: resolve sprite tearing on high-DPI retina screens
 - [2026-03-16 17:57] feat: add high score persistence using localStorage API
+- [2026-03-16 18:58] fix: correct ground parallax scrolling alignment offset
