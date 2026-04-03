@@ -377,3 +377,4 @@
 - [2026-03-16 17:57] feat: add high score persistence using localStorage API
 - [2026-03-16 18:58] fix: correct ground parallax scrolling alignment offset
 - [2026-04-03 14:02] refactor: extract physics constants into separate config module
+- [2026-04-03 17:45] feat: dynamic obstacle spawning with progressive speed scaling
