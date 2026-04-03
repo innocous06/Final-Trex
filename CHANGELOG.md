@@ -376,3 +376,4 @@
 - [2026-03-16 16:17] fix: resolve sprite tearing on high-DPI retina screens
 - [2026-03-16 17:57] feat: add high score persistence using localStorage API
 - [2026-03-16 18:58] fix: correct ground parallax scrolling alignment offset
+- [2026-04-03 14:02] refactor: extract physics constants into separate config module
