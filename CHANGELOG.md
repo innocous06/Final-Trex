@@ -379,3 +379,4 @@
 - [2026-04-03 14:02] refactor: extract physics constants into separate config module
 - [2026-04-03 17:45] feat: dynamic obstacle spawning with progressive speed scaling
 - [2026-04-20 10:07] fix: correct ground parallax scrolling alignment offset
+- [2026-05-09 14:14] fix: prevent double-jump glitch when spamming spacebar
