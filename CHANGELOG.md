@@ -381,3 +381,4 @@
 - [2026-04-20 10:07] fix: correct ground parallax scrolling alignment offset
 - [2026-05-09 14:14] fix: prevent double-jump glitch when spamming spacebar
 - [2026-05-24 11:50] refactor: extract physics constants into separate config module
+- [2026-06-04 10:04] feat: add high score persistence using localStorage API
