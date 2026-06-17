@@ -382,3 +382,4 @@
 - [2026-05-09 14:14] fix: prevent double-jump glitch when spamming spacebar
 - [2026-05-24 11:50] refactor: extract physics constants into separate config module
 - [2026-06-04 10:04] feat: add high score persistence using localStorage API
+- [2026-06-17 11:33] docs: update README with gameplay controls and architecture diagram
