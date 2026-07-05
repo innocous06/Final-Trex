@@ -383,3 +383,4 @@
 - [2026-05-24 11:50] refactor: extract physics constants into separate config module
 - [2026-06-04 10:04] feat: add high score persistence using localStorage API
 - [2026-06-17 11:33] docs: update README with gameplay controls and architecture diagram
+- [2026-07-05 10:30] feat: add high score persistence using localStorage API
