@@ -384,3 +384,4 @@
 - [2026-06-04 10:04] feat: add high score persistence using localStorage API
 - [2026-06-17 11:33] docs: update README with gameplay controls and architecture diagram
 - [2026-07-05 10:30] feat: add high score persistence using localStorage API
+- [2026-07-05 18:49] feat: dynamic obstacle spawning with progressive speed scaling
