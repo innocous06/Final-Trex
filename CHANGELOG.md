@@ -32,3 +32,4 @@
 - [2026-03-14 15:57] refactor: extract physics constants into separate config module
 - [2026-04-08 13:51] docs: update README with gameplay controls and architecture diagram
 - [2026-06-08 19:28] feat: add mobile touch controls and responsive viewport scaling
+- [2026-07-12 16:15] feat: dynamic obstacle spawning with progressive speed scaling
