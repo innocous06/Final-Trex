@@ -386,3 +386,4 @@
 - [2026-07-05 10:30] feat: add high score persistence using localStorage API
 - [2026-07-05 18:49] feat: dynamic obstacle spawning with progressive speed scaling
 - [2026-07-19 15:45] fix: correct ground parallax scrolling alignment offset
+- [2026-07-19 16:25] feat: dynamic obstacle spawning with progressive speed scaling
