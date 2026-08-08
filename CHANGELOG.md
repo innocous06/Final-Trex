@@ -387,3 +387,4 @@
 - [2026-07-05 18:49] feat: dynamic obstacle spawning with progressive speed scaling
 - [2026-07-19 15:45] fix: correct ground parallax scrolling alignment offset
 - [2026-07-19 16:25] feat: dynamic obstacle spawning with progressive speed scaling
+- [2026-08-08 14:46] docs: update README with gameplay controls and architecture diagram
