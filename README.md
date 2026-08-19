@@ -24,4 +24,4 @@ Open `index.html` in any modern web browser. No compilation or server setup requ
 
 Released under the [MIT License](LICENSE).
 
-Copyright (c) 2026 innocous. All rights reserved.
+Copyright (c) 2026 innocous06. All rights reserved.
